@@ -1,0 +1,47 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: rgb(214, 199, 199);
+}
+
+h1 {
+    text-align: center;
+    color: rgb(194, 118, 118);
+    font-size: 3em; 
+}
+
+h2 {
+    margin-top: 20px;
+    text-align: center;
+    color: rgb(27, 26, 26);
+    font-size: 2em; 
+}
+
+#personaggi-lista p {
+    margin: 5px;
+    cursor: pointer;
+    color: black;
+}
+
+#domanda {
+    margin: 20px;
+    padding: 15px;
+    text-align: center;  
+    font-size: 1.5em;
+}
+
+button {
+    display: block;
+    margin: 10px auto;
+    padding: 10px 20px;
+    background-color: #007bff; 
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 1.2em; 
+}
+
+button:hover {
+    background-color: #0056b3;
+}
